@@ -17,3 +17,4 @@ Velora es una app de citas en la cual vas a poder disfrutar de una mejor experie
 
 ```bash
 git clone [https://github.com/Santiago-zfo/taller1-equipo-4.git]
+Consulta nuestro [estándar de codificación](ESTANDAR.md).
